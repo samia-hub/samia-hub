@@ -79,17 +79,20 @@ Toujours avec **validation humaine** : l'IA assiste, le testeur décide.
 
 ## 🎓 Formation
 
-Formatrice QA (CNFCPP) : programmes dispensés ou conçus :
+Formatrice QA **CNFCPP** : programmes que j'ai conçus ou dispensés.
 
-- ISTQB® Foundation Level v4.0 
-- ISTQB® CTAL-TAE : Test Automation Engineering
-- Playwright + TypeScript + Gen AI
-- Outils de test : Jira, Xray, Squash TM, Trello
+| 🏅 Certifications ISTQB® | 🤖 Automatisation & IA | 🧪 Pratique & méthodes |
+|---|---|---|
+| **ISTQB® Foundation Level v4.0** | **CTAL-TAE** : Test Automation Engineering | **Test manuel en pratique** : Jira, Xray, Squash TM, Azure DevOps |
+| **ISTQB® Gen IA** : Testing with Generative AI (CT-GenAI) | **Java & Selenium** | **Scrum Master** |
+| **ISTQB® Test Manager** | **Playwright + TypeScript + Gen AI** | **Business Analysis (BA)** |
+| | | **Tests de sécurité** : Testing with Security |
 
 🌱 En ce moment
-🔭 Je construis un framework Playwright + TypeScript avec CI/CD
-📚 Je prépare la certification SAFe® Practitioner
-🤝 Ouverte aux missions QA, aux collaborations et aux formations en testing
+ 🔭 Je construis un framework Playwright + TypeScript avec CI/CD
+ ⚙️ Je construis ma chaîne **DevOps** : pipeline d'intégration continue qui lance mes tests automatisés à chaque commit
+ 📚 Je prépare la certification SAFe® Practitioner
+ 🤝 Ouverte aux missions QA, aux collaborations et aux formations en testing
 
 ## 📫 Me contacter
 
