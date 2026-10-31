@@ -1,4 +1,3 @@
-# samia-lafi-samia-lafi
 <div align="center">
 
 # Samia Lafi
