@@ -99,7 +99,7 @@ Formatrice QA (CNFCPP) : programmes dispensés ou conçus :
 
 Ouverte aux **missions QA**, **collaborations** et **formations en testing**.
 
-- 💼 LinkedIn : [VOTRE-LIEN](linkedin.com/in/samia-elaffy-88a670107)
+- 💼 LinkedIn : [VOTRE-LIEN](https://www.linkedin.com/in/samia-elaffy-88a670107/)
 - ✉️ Email : lafisamia@hotmail.fr
 
 ---
