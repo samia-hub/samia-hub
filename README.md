@@ -13,11 +13,12 @@
 [LinkedIn]linkedin.com/in/samia-elaffy-88a670107 · [Email]lafisamia9@gmail.com
 
 </div>
-## 👋 À propos
 
-Consultante QA confirmée avec **4+ ans d'expérience** en assurance qualité logicielle. Je sécurise la qualité des applications grâce à une approche complète : **validation des exigences métier, recette fonctionnelle, tests manuels et automatisés, gestion des anomalies**.
+Je m'appelle Samia, consultante QA confirmée basée en Tunisie, avec 4+ ans d'expérience en assurance qualité logicielle.
 
-Je suis également **formatrice QA (CNFCPP)** et je transmets les bonnes pratiques ISTQB®, l'automatisation moderne (Playwright/TypeScript) et l'usage de l'**IA générative appliquée au test**.
+Mon métier : faire en sorte que vos mises en production se passent sereinement. Je relie le besoin métier au code : j'analyse les exigences, je conçois les tests, je les automatise, et je pilote les anomalies jusqu'à leur résolution.
+
+Je suis aussi formatrice QA (CNFCPP, ALLTest Consulting) : je transmets l'ISTQB®, l'automatisation moderne et l'usage raisonné de l'IA générative en test.
 
 ## 🎯 Ce que je fais
 
@@ -79,15 +80,10 @@ Formatrice QA (CNFCPP) : programmes dispensés ou conçus :
 - Playwright + TypeScript + Gen AI
 - Outils de test : Jira, Xray, Squash TM, Trello
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VOTRE-USER&show_icons=true&theme=default&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-USER&layout=compact&hide_border=true)
-
-</div>
+🌱 En ce moment
+🔭 Je construis un framework Playwright + TypeScript avec CI/CD
+📚 Je prépare la certification SAFe® Practitioner
+🤝 Ouverte aux missions QA, aux collaborations et aux formations en testing
 
 ## 📫 Me contacter
 
