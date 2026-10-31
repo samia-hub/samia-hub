@@ -1,18 +1,27 @@
 <div align="center">
 
-###  QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel
-### ISTQB® · IQBBA® | Formatrice QA & CNFCPP | IA appliquée au test (CT-GenAI)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Samia%20Lafi&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Consultante%20QA%20%C2%B7%20Automatisation%20%C2%B7%20IA%20appliqu%C3%A9e%20au%20test&descSize=20&descAlignY=60" alt="Samia Lafi - Consultante QA" width="100%"/>
 
-![ISTQB](https://img.shields.io/badge/ISTQB®-Foundation-blue)
-![IQBBA](https://img.shields.io/badge/IQBBA®-Certifiée-green)
-![CT-GenAI](https://img.shields.io/badge/CT--GenAI-IA%20appliquée%20au%20test-purple)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=40&lines=Consultante+QA+confirm%C3%A9e+%7C+4%2B+ans+d%27exp%C3%A9rience;Playwright+%2B+TypeScript+%C2%B7+Selenium+%2B+Java;Formatrice+ISTQB%C2%AE+%26+CNFCPP;L%27IA+assiste%2C+le+testeur+d%C3%A9cide" alt="Typing SVG"/>
 
-📍 Tunisie 
-[LinkedIn]linkedin.com/in/samia-elaffy-88a670107 · [Email]lafisamia9@gmail.com
+<br/>
+
+**QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel**
+**ISTQB® · IQBBA® | Formatrice QA & CNFCPP | IA appliquée au test (CT-GenAI)**
+
+📍 Tunisie
+
+<img src="https://img.shields.io/badge/ISTQB%C2%AE-Foundation_Level-0A66C2?style=for-the-badge" alt="ISTQB Foundation"/>
+<img src="https://img.shields.io/badge/IQBBA%C2%AE-Business_Analysis-2EA44F?style=for-the-badge" alt="IQBBA"/>
+<img src="https://img.shields.io/badge/ISTQB%C2%AE-CT--GenAI-8957E5?style=for-the-badge" alt="CT-GenAI"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/samia-elaffy-88a670107/"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lafisamia9@gmail.com"><img src="https://img.shields.io/badge/Email-Écrire-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
+
 
 Je m'appelle Samia, consultante QA confirmée basée en Tunisie, avec 4+ ans d'expérience en assurance qualité logicielle.
 
