@@ -1,7 +1,5 @@
 <div align="center">
 
-# Samia Lafi
-
 ###  QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel
 ### ISTQB® · IQBBA® | Formatrice QA & CNFCPP | IA appliquée au test (CT-GenAI)
 
