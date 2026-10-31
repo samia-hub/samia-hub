@@ -3,7 +3,7 @@
 
 # Samia Lafi
 
-### TOP QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel
+###  QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel
 ### ISTQB® · IQBBA® | Formatrice QA & CNFCPP | IA appliquée au test (CT-GenAI)
 
 ![ISTQB](https://img.shields.io/badge/ISTQB®-Foundation-blue)
@@ -12,8 +12,8 @@
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
-📍 Tunisie · 🌍 Français · العربية · English
-[LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN) · [Email](mailto:votre.email@exemple.com)
+📍 Tunisie 
+[LinkedIn](linkedin.com/in/samia-elaffy-88a670107) · [Email](lafisamia@hotmail.fr)
 
 </div>
 
@@ -48,8 +48,8 @@ Je suis également **formatrice QA (CNFCPP)** et je transmets les bonnes pratiqu
 
 ## 🏆 Certifications
 
-- **ISTQB® Certified Tester Foundation Level (CTFL)**
-- **IQBBA® Foundation Level (Business Analysis)**
+- 2026: **ISTQB® Certified Tester Foundation Level (CTFL)**
+- 2026:**IQBBA® Foundation Level (Business Analysis)**
 - **CT-GenAI** : Testing with Generative AI *(à adapter selon votre statut : certifiée / en cours)*
 
 ## 📂 Projets en vedette
@@ -63,7 +63,6 @@ Je suis également **formatrice QA (CNFCPP)** et je transmets les bonnes pratiqu
 | [**genai-for-testing**](https://github.com/VOTRE-USER/genai-for-testing) | Prompts et workflows d'IA générative pour la conception de tests | CT-GenAI, LLM, prompt engineering |
 | [**test-strategy-templates**](https://github.com/VOTRE-USER/test-strategy-templates) | Modèles : plan de test, stratégie de test, rapport de test, checklist de recette | Markdown, Word |
 
-> 💡 *Épinglez ces 6 dépôts sur votre profil (Customize your pins).*
 
 ## 🤖 IA appliquée au test
 
@@ -81,21 +80,11 @@ Toujours avec **validation humaine** : l'IA assiste, le testeur décide.
 
 Formatrice QA (CNFCPP) : programmes dispensés ou conçus :
 
-- ISTQB® Foundation Level v4.0
+- ISTQB® Foundation Level v4.0 
 - ISTQB® CTAL-TAE : Test Automation Engineering
 - Playwright + TypeScript + Gen AI
 - Outils de test : Jira, Xray, Squash TM, Trello
 
-## 💼 Parcours
-
-| Période | Poste | Structure |
-|---|---|---|
-| Janv. 2023 → présent | Testeur QA / Consultante QA | ALLTest |
-| Sept. 2020 → Juil. 2022 | Testeur QA / Gestion de projet | The Way Software Solution |
-| Avr. 2019 → Juil. 2020 | Développeuse Full Stack | The Way Software Solution |
-| Déc. 2018 → Avr. 2020 | Formatrice Java | The Way Center |
-
-🎓 Licence Appliquée en Informatique et Génie Logiciel, ENICarthage (2016)
 
 ## 📈 GitHub Stats
 
@@ -110,8 +99,8 @@ Formatrice QA (CNFCPP) : programmes dispensés ou conçus :
 
 Ouverte aux **missions QA**, **collaborations** et **formations en testing**.
 
-- 💼 LinkedIn : [VOTRE-LIEN](https://www.linkedin.com/in/VOTRE-LIEN)
-- ✉️ Email : votre.email@exemple.com
+- 💼 LinkedIn : [VOTRE-LIEN](linkedin.com/in/samia-elaffy-88a670107)
+- ✉️ Email : lafisamia@hotmail.fr
 
 ---
 
