@@ -6,8 +6,8 @@
 
 <br/>
 
-**QA Tester | Automatisation (Selenium/Playwright) & Fonctionnel**
-**ISTQB® · IQBBA® | Formatrice QA & CNFCPP | IA appliquée au test (CT-GenAI)**
+**Consultante QA | Automatisation (Playwright · TypeScript · Selenium) & Fonctionnel**
+**ISTQB® · IQBBA® · CT-GenAI | Formatrice QA (CNFCPP) | IA appliquée au test**
 
 📍 Tunisie
 
