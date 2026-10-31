@@ -12,7 +12,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 📍 Tunisie 
-[LinkedIn](linkedin.com/in/samia-elaffy-88a670107) · [Email](lafisamia@hotmail.fr)
+[LinkedIn]linkedin.com/in/samia-elaffy-88a670107 · [Email]lafisamia9@gmail.com
 
 </div>
 ## 👋 À propos
