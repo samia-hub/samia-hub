@@ -88,11 +88,12 @@ Formatrice QA **CNFCPP** : programmes que j'ai conçus ou dispensés.
 | **ISTQB® Test Manager** | **Playwright + TypeScript + Gen AI** | **Business Analysis (BA)** |
 | | | **Tests de sécurité** : Testing with Security |
 
-🌱 En ce moment
- 🔭 Je construis un framework Playwright + TypeScript avec CI/CD
- ⚙️ Je construis ma chaîne **DevOps** : pipeline d'intégration continue qui lance mes tests automatisés à chaque commit
- 📚 Je prépare la certification SAFe® Practitioner
- 🤝 Ouverte aux missions QA, aux collaborations et aux formations en testing
+## 🌱 En ce moment
+
+- 🔭 Je construis un framework Playwright + TypeScript avec CI/CD
+- ⚙️ Je construis ma chaîne **DevOps** : pipeline d'intégration continue qui lance mes tests automatisés à chaque commit
+- 📚 Je prépare la certification **SAFe® Practitioner**
+- 🤝 Ouverte aux **missions QA**, aux **collaborations** et aux **formations en testing**
 
 ## 📫 Me contacter
 
