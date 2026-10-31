@@ -15,9 +15,6 @@
 [LinkedIn](linkedin.com/in/samia-elaffy-88a670107) · [Email](lafisamia@hotmail.fr)
 
 </div>
-
----
-
 ## 👋 À propos
 
 Consultante QA confirmée avec **4+ ans d'expérience** en assurance qualité logicielle. Je sécurise la qualité des applications grâce à une approche complète : **validation des exigences métier, recette fonctionnelle, tests manuels et automatisés, gestion des anomalies**.
@@ -48,7 +45,7 @@ Je suis également **formatrice QA (CNFCPP)** et je transmets les bonnes pratiqu
 ## 🏆 Certifications
 
 - 2026: **ISTQB® Certified Tester Foundation Level (CTFL)**
-- 2026:**IQBBA® Foundation Level (Business Analysis)**
+- 2026: **IQBBA® Foundation Level (Business Analysis)**
 - **CT-GenAI** : Testing with Generative AI *(à adapter selon votre statut : certifiée / en cours)*
 
 ## 📂 Projets en vedette
